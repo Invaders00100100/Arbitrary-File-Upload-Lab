@@ -20,7 +20,7 @@ document.getElementById('file').removeAttribute('accept');
 
 The Walkthrough is available on youtube:
 
-https://www.youtube.com/watch?v=QHpE7OhR_ck
+https://www.youtube.com/watch?v=-xTaMTH3MGk
 
 Support My Work With A Cup Of Coffee
 
